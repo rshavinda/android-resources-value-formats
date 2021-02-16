@@ -12,7 +12,7 @@ Dimensions file which is used to define all size dimensions used within an app. 
   - [x] **Dimensions Style #01** <br/>
  The 'space' tag represent both margins and padding properties as follows,
 ```xml
-      <resources>
+  <resources>
        <!-- Margins and Padding -->
        <dimen name="space_xl">32dp</dimen>
        <dimen name="space_large">24dp</dimen>
@@ -22,13 +22,14 @@ Dimensions file which is used to define all size dimensions used within an app. 
   </resources>
 ```
   > Format 01 : [dimens.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Dimensions%20Style%20%2301/dimens-clean.xml) ( space_xs, space_xl )\
-  > Format 02 : [dimens.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Dimensions%20Style%20%2301/dimens-clean.xml) ( space_extra_small, space_extra_large )<br/><br/>
-
+  > Format 02 : [dimens.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Dimensions%20Style%20%2301/dimens-clean.xml) ( space_extra_small, space_extra_large )
+<br/>
+<br/>
 
  - [x] **Dimensions Style #02 :** [dimens.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Dimensions%20Style%20%2302/dimens-clean.xml) <br/> 
  Margins and padding properties defined in separate sections as shown below,
 ```xml
-      <resources>
+  <resources>
         <!-- Margins -->
         <dimen name="margin_xxl">48dp</dimen>
         <dimen name="margin_xl">32dp</dimen>
