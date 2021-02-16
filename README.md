@@ -18,6 +18,14 @@ Android app development design colors.
       ![#00796B](https://via.placeholder.com/15/00796B/000000?text=+) ` <!-- Teal -->` <br/>
       ![#43A047](https://via.placeholder.com/15/43A047/000000?text=+) ` <!-- Green -->` <br/>
       ![#7CB342](https://via.placeholder.com/15/7CB342/000000?text=+) ` <!-- Light Green -->` <br/>
+      ![#A4B42B](https://via.placeholder.com/15/A4B42B/000000?text=+) ` <!-- Lime -->` <br/>
+      ![#FFEB3B](https://via.placeholder.com/15/FFEB3B/000000?text=+) ` <!-- Yellow -->` <br/>
+      ![#FFCA28](https://via.placeholder.com/15/FFCA28/000000?text=+) ` <!-- Amber -->` <br/>
+      ![#FF9800](https://via.placeholder.com/15/FF9800/000000?text=+) ` <!-- Orange -->` <br/>
+      ![#E64A19](https://via.placeholder.com/15/E64A19/000000?text=+) ` <!-- Deep Orange -->` <br/>
+      ![#5D4037](https://via.placeholder.com/15/5D4037/000000?text=+) ` <!-- Brown -->` <br/>
+      ![#607D8B](https://via.placeholder.com/15/607D8B/000000?text=+) ` <!-- Blue Grey -->` <br/>
+      ![#757575](https://via.placeholder.com/15/757575/000000?text=+) ` <!-- Grey -->` <br/>
 
 ---
 ### dimens.xml
