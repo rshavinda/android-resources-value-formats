@@ -13,6 +13,7 @@ Themable, flexible color ramps for design applications.
 | --- | --- |--- |
   | ![#D32F2F](https://via.placeholder.com/15/D32F2F/000000?text=+) ` ⚬ Red`  | ![#D81B60](https://via.placeholder.com/15/D81B60/000000?text=+) ` ⚬ Pink `   | ![#8E24AA](https://via.placeholder.com/15/8E24AA/000000?text=+) ` ⚬ Purple `   |
 | ![#5E35B1](https://via.placeholder.com/15/5E35B1/000000?text=+) ` ⚬ Deep Purple `  | ![#303F9F](https://via.placeholder.com/15/303F9F/000000?text=+) ` ⚬ Indigo `  |    ![#1976D2](https://via.placeholder.com/15/1976D2/000000?text=+) ` ⚬ Blue `  |
+| ![#039BE5](https://via.placeholder.com/15/039BE5/000000?text=+) ` ⚬ Light Blues ` <br/>  |  ![#00ACC1](https://via.placeholder.com/15/00ACC1/000000?text=+) ` ⚬ Cyan ` <br/>  |    ![#00796B](https://via.placeholder.com/15/00796B/000000?text=+) ` ⚬ Teal ` <br/>  |
   
       ![#D32F2F](https://via.placeholder.com/15/D32F2F/000000?text=+) ` ⚬ Red` <br/>
       ![#D81B60](https://via.placeholder.com/15/D81B60/000000?text=+) ` ⚬ Pink ` <br/>
