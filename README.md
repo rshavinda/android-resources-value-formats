@@ -7,10 +7,10 @@ Android app development design colors.
   
 
   
-      ![#D32F2F](https://via.placeholder.com/15/f03c15/000000?text=+) ` <!-- Shades of Red -->`
-      ![#D81B60](https://via.placeholder.com/15/f03c15/000000?text=+) ` <!-- Shades of Pink -->`
-      ![#8E24AA](https://via.placeholder.com/15/f03c15/000000?text=+) ` <!-- Shades of Purple -->`
-      ![#5E35B1](https://via.placeholder.com/15/f03c15/000000?text=+) ` <!-- Deep Purple -->`
+      ![#D32F2F](https://via.placeholder.com/15/D32F2F/000000?text=+) ` <!-- Shades of Red -->` <br/>
+      ![#D81B60](https://via.placeholder.com/15/D81B60/000000?text=+) ` <!-- Shades of Pink -->` <br/>
+      ![#8E24AA](https://via.placeholder.com/15/8E24AA/000000?text=+) ` <!-- Shades of Purple -->` <br/>
+      ![#5E35B1](https://via.placeholder.com/15/5E35B1/000000?text=+) ` <!-- Deep Purple -->` <br/>
 
 ---
 ### dimens.xml
