@@ -2,7 +2,6 @@
 ⛻ Standard dimensions, color codes for Android
 
 ---
-
 ### color.xml
 Android app development design colors.
   - [x] *Color Codes from Google's Material design color palette:* [Material color codes](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) <br/>
