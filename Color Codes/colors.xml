@@ -2,10 +2,9 @@
 <resources>
     <!-- Color Codes from Google's Material design color palette:
     https://material.io/resources/color/#!/ -->
-
-    <!-- Official color tools
+    <!-- Official color tools :
      https://material-ui.com/customization/color/ -->
-
+    
     <!-- Color values
     Normal colors: 50, 100, 200, 300, 400, 500, 600, 700, 800, 900
     Accent colors: A100, A200, A400, A700 -->
