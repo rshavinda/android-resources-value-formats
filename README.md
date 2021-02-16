@@ -5,7 +5,15 @@
 Android app development design colors.
   - [x] *Color Codes from Google's Material design color palette:* [Material color codes](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) <br/>
   
-  ![alt text](https://github.com/rshavinda/android-resources-value-formats/blob/main/Res/colors.png)
+  Reds | Second Header
+------------ | -------------
+<color name="red_50">#FFEBEE</color> | <color name="red_50">#FFEBEE</color>
+<color name="red_50">#FFEBEE</color> | <color name="red_50">#FFEBEE</color>
+<color name="red_50">#FFEBEE</color> | <color name="red_50">#FFEBEE</color>
+<color name="red_50">#FFEBEE</color> | <color name="red_50">#FFEBEE</color>
+<color name="red_50">#FFEBEE</color> | <color name="red_50">#FFEBEE</color>
+<color name="red_50">#FFEBEE</color> | <color name="red_50">#FFEBEE</color>
+
   
   - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Colour x`
 
