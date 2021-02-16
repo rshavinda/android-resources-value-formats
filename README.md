@@ -3,10 +3,10 @@
 
 ---
 ### color.xml
-Android app development design colors.
-  - [x] *Color Codes from Google's Material design color palette:* [Material color codes](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) <br/>
+Themable, flexible color ramps for a design systems.
+  - [x] **Color - Style - Material Design** <br/>
+  *Color Codes from Google's Material design color palette:* [Material color codes](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) <br/>
   
-
   
       ![#D32F2F](https://via.placeholder.com/15/D32F2F/000000?text=+) ` ⚬ Red` <br/>
       ![#D81B60](https://via.placeholder.com/15/D81B60/000000?text=+) ` ⚬ Pink ` <br/>
