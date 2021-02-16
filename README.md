@@ -7,7 +7,7 @@ Android app development design colors.
   
   ![alt text](https://github.com/rshavinda/android-resources-value-formats/blob/main/Res/colors.png)
   
-  - ![#f03c15]
+  - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Colour x`
 
 ---
 ### dimens.xml
