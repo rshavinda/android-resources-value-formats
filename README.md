@@ -6,10 +6,10 @@ Android app development design colors.
   - [x] *Color Codes from Google's Material design color palette:* [Material color codes](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml)
 
 
-- **dimensions.xml** :\
+- **dimens.xml** :\
 Dimensions file which is used to define all size dimensions used within an app. A dimension is specified with a number followed by a unit of measure. For example: *10px, 5sp*. Dimensions should be defined within `res/values/dimens.xml`.
 
-  - [x] *Dimensions Style #01 :* [dimens.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) <br/>
+  - [x] *Dimensions Style #01 :* [dimens.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Dimensions%20Style%20%2301/dimens-clean.xml) <br/>
  The 'space' tag represent both margins and padding properties as follows,
 ```xml
       <resources>
@@ -23,7 +23,7 @@ Dimensions file which is used to define all size dimensions used within an app. 
 ```
 
 
- - [x] *Dimensions Style #02 :* [dimens.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml)\ 
+ - [x] *Dimensions Style #02 :* [dimens.xml](https://github.com/rshavinda/android-resources-value-formats/blob/main/Dimensions%20Style%20%2302/dimens-clean.xml) <br/> 
  Margins and padding properties defined in separate sections as shown below,
 ```xml
       <resources>
