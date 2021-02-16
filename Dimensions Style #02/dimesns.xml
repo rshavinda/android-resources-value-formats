@@ -5,16 +5,27 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
 
-    <!-- Margins and Padding -->
-    <dimen name="space_extremely_extra_large">72dp</dimen>
-    <dimen name="space_extra_large">64dp</dimen>
-    <dimen name="space_large_plus">48dp</dimen>
-    <dimen name="space_large">32dp</dimen>
-    <dimen name="space_medium_plus">24dp</dimen>
-    <dimen name="space_medium">16dp</dimen> <!-- default -->
-    <dimen name="space_small">8dp</dimen>
-    <dimen name="space_extra_small">4dp</dimen>
-    <dimen name="space_thin">2dp</dimen>
+    <!-- Margins -->
+    <dimen name="margin_max_large">72dp</dimen>
+    <dimen name="margin_extremely_extra_large">64dp</dimen>
+    <dimen name="margin_extra_large">48dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    <dimen name="margin_medium_plus">24dp</dimen>
+    <dimen name="margin_medium">16dp</dimen> <!-- default -->
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_extra_small">4dp</dimen>
+    <dimen name="margin_thin">2dp</dimen>
+
+    <!-- Padding -->
+    <dimen name="padding_max_large">72dp</dimen>
+    <dimen name="padding_extremely_extra_large">64dp</dimen>
+    <dimen name="padding_extra_large">48dp</dimen>
+    <dimen name="padding_large">32dp</dimen>
+    <dimen name="padding_medium_plus">24dp</dimen>
+    <dimen name="padding_medium">16dp</dimen> <!-- default -->
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_extra_small">4dp</dimen>
+    <dimen name="padding_thin">2dp</dimen>
 
     <!-- Font Sizes  -->
     <dimen name="text_extremely_extra_large">32sp</dimen>
@@ -67,7 +78,4 @@
     <dimen name="material_text_button">14sp</dimen>
     <dimen name="material_text_menu">14sp</dimen>
     <dimen name="material_text_caption">12sp</dimen>
-
-    <!-- https://material.io/design/layout/spacing-methods.html#spacing  by Google -->
-    <!-- https://learnui.design/blog/android-material-design-font-size-guidelines.html -->
 </resources>
