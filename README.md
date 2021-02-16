@@ -3,10 +3,10 @@
 
 ---
 ### color.xml
-Themable, flexible color ramps for a design systems.
+Themable, flexible color ramps for design applications.
   - [x] **Color - Style - Material Design** <br/>
   *Color Codes from Google's Material design color palette:* [Material color codes](https://github.com/rshavinda/android-resources-value-formats/blob/main/Color%20Codes/colors.xml) <br/>
-  
+  *List of colors by shade*
   
       ![#D32F2F](https://via.placeholder.com/15/D32F2F/000000?text=+) ` ⚬ Red` <br/>
       ![#D81B60](https://via.placeholder.com/15/D81B60/000000?text=+) ` ⚬ Pink ` <br/>
