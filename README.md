@@ -11,7 +11,7 @@ Android app development design colors.
 Dimensions file which is used to define all size dimensions used within an app. A dimension is specified with a number followed by a unit of measure. For example: *10px, 5sp*. Dimensions should be defined within `res/values/dimens.xml`.
 
   - [x] *Dimensions Style #01* \
- The 'space' tag represent both margins and padding properties 
+ The 'space' tag represent both margins and padding properties as follows,
 ```xml
       <resources>
        <!-- Margins and Padding -->
@@ -24,6 +24,7 @@ Dimensions file which is used to define all size dimensions used within an app. 
 ```
 
  - [x] *Dimensions Style #02* \
+ Margins and padding properties defined in separate sections as shown below,
 ```xml
       <resources>
         <!-- Margins -->
