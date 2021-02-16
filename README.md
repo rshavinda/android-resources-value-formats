@@ -12,7 +12,7 @@ Dimensions file which is used to define all size dimensions used within an app. 
 
   - [x] *Dimensions Style #01* \
 'space' tag represent both margins and padding properties 
-```xml
+    ```xml
 <resources>
       <!-- Margins and Padding -->
     <dimen name="space_xxxl">64dp</dimen>
@@ -24,6 +24,6 @@ Dimensions file which is used to define all size dimensions used within an app. 
     <dimen name="space_xs">4dp</dimen>
     <dimen name="space_xxs">2dp</dimen>
 </resources>
-```
+  ```
 
 
