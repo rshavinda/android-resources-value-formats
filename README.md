@@ -7,7 +7,7 @@ Android app development design colors.
   
 
   
-  - ![#C62828](https://via.placeholder.com/15/f03c15/000000?text=+) `red_100 | red_200 | red_300`
+   ![#C62828](https://via.placeholder.com/15/f03c15/000000?text=+) `red_100 | red_200 | red_300 ...`
 
 ---
 ### dimens.xml
